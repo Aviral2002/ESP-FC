@@ -13,8 +13,8 @@
 
 // REPLACE WITH YOUR NETWORK CREDENTIALS
 //COnnect your PC/mobile to this wifi and open the IP address from the serial monitor in your browser.
-const char* ssid = "Yashi@2.4Ghz";
-const char* password = "Duffy@3112";
+const char* ssid = "";
+const char* password = "";
 
 float PRateRoll = 0.625;
 float IRateRoll = 2.1;
